@@ -1,0 +1,14 @@
+Windows Outlook install
+=======================
+
+1. Copy ALL files and folders from this package into:
+   %AppData%\Microsoft\Signatures
+
+   To open that folder: Win+R, paste the path above, Enter.
+
+2. Open Outlook -> File -> Options -> Mail -> Signatures.
+3. Select the signature (Pheladelfia Corporate, Landscape HR, ...).
+4. Set it as default for New messages and Replies/forwards.
+5. Click OK. Do NOT paste HTML into the edit box.
+
+If you paste inside the editor, Windows Outlook will underline the links again.
